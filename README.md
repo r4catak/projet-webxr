@@ -12,6 +12,10 @@ de protéines en 3D à partir des fichiers fournis par AlphaFold en réalité au
 liaisons des protéines de manière interactive avec la possibilité justement de manipuler la vue en 3D pour explorer la structure du molécule.
 [Le projet est disponible ici.](https://r4catak.github.io/projet-webxr/)
 
+<img width="530" height="571" alt="image" src="https://github.com/user-attachments/assets/d3981c85-e74a-460e-9149-7403f25034be" />
+
+
+
 ## Fonctionnalités
 
 - Un chargement dynamique de protéines en entrant un identifiant de protéine pour charger un modèle 3D en direct depuis AlphaFold.
